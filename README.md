@@ -51,7 +51,7 @@ Francesco needs you to be the new diamond evaluator.
 He's looking for a **model that predicts a gem's worth based on its characteristics**. 
 And, because Francesco's clientele is as demanding as he is, he wants the why behind every price tag. 
 
-Create another Jupyter notebook where you develop and evaluate your model.
+Create a Jupyter notebook where you develop and evaluate your model.
 
 #### Challenge 2
 
